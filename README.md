@@ -72,7 +72,7 @@ We use [SemVer](http://semver.org/) for versioning.
 
 See also the list of [contributors](https://github.com/matteomorelli/arpalazio-ecomanager-db-download/contributors) who participated in this project.
 
-* **Andrea Bolignano**
+* **Andrea Bolignano** - [andrea-bolignano](https://github.com/andrea-bolignano)
 
 ## License
 
